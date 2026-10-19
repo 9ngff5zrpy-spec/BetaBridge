@@ -1,0 +1,486 @@
+{
+  "commit": "46ba6ea985fb5a92d79a9419198f10dda14c199d",
+  "files": [
+    {
+      "path": "bedrock-terrain-texture.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/textures/terrain_texture.json",
+      "sha256": "623b5a67fa1c1f50972db86607492b629c0b3ce9d7f886e1f569a4d820d91e95"
+    },
+    {
+      "path": "bedrock-item-texture.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/textures/item_texture.json",
+      "sha256": "b203a6a4daef52efe98a1e7569a1b69ac7c1a08ca824e8556d141be34233107a"
+    },
+    {
+      "path": "bedrock-sound-definitions.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/sounds/sound_definitions.json",
+      "sha256": "f6ebf5fe07d67355698a4fa2d138217753b3b7da2b94e3162c94da48f9a69fe6"
+    },
+    {
+      "path": "bedrock-biomes_client.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes_client.json",
+      "sha256": "fde293c65c0216dc717eef294836f7916212c12bf30fe9192dbb8743b2efa6c3"
+    },
+    {
+      "path": "boat-official/boat.entity.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/entity/boat.entity.json",
+      "sha256": "9ecb24ffcfeb48d8edfbd41eb9a8f0022892caa42111352a53802840408dd8de"
+    },
+    {
+      "path": "chest-hud-official/hud_screen.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/ui/hud_screen.json",
+      "sha256": "2daad9e78e49ee68042d6d0db9153aad0c33c266ba513a2a737b0818e4cfefe8"
+    },
+    {
+      "path": "bedrock-samples-tree.json",
+      "url": "https://api.github.com/repos/Mojang/bedrock-samples/git/trees/46ba6ea985fb5a92d79a9419198f10dda14c199d?recursive=1",
+      "sha256": null,
+      "treeSha": "46ba6ea985fb5a92d79a9419198f10dda14c199d"
+    },
+    {
+      "path": "bedrock-biomes/bamboo_jungle.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/bamboo_jungle.client_biome.json",
+      "sha256": "42d7733d6dcb4e6bbc4443b88bb8d8ec57178de5814c1a1bfbdac138fcd4cbe7"
+    },
+    {
+      "path": "bedrock-biomes/bamboo_jungle_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/bamboo_jungle_hills.client_biome.json",
+      "sha256": "4ee2eca0c09dbc40f3f43dc43e1e09ce5e4614ce876c8fffd8d94817514a6c7f"
+    },
+    {
+      "path": "bedrock-biomes/basalt_deltas.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/basalt_deltas.client_biome.json",
+      "sha256": "b3202d13cd967e27eee0f367d461e6be9fefb67067c800a7d6f14017033f9da7"
+    },
+    {
+      "path": "bedrock-biomes/beach.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/beach.client_biome.json",
+      "sha256": "ef82223b5de71b9eae0ab19ba90f5bdc20ee74b7409c8a10214559d25a91b9be"
+    },
+    {
+      "path": "bedrock-biomes/birch_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/birch_forest.client_biome.json",
+      "sha256": "245bef262a89ebccbc6eca0a0756d71f8e886cfbe51ab9f96dfe056deef41554"
+    },
+    {
+      "path": "bedrock-biomes/birch_forest_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/birch_forest_hills.client_biome.json",
+      "sha256": "116d142c3c9cd524bb3e6f4aa955d902e98a340c4e407a6b7e23b8d1df7eb71f"
+    },
+    {
+      "path": "bedrock-biomes/birch_forest_hills_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/birch_forest_hills_mutated.client_biome.json",
+      "sha256": "4862db850908ed893546c50cfd5229828503b7125bfb1b00265ca531a06622ef"
+    },
+    {
+      "path": "bedrock-biomes/birch_forest_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/birch_forest_mutated.client_biome.json",
+      "sha256": "5f79fb35e419930a97302793900c43f29e0223b8b3df0d17cf90eb1cbd682389"
+    },
+    {
+      "path": "bedrock-biomes/cherry_grove.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cherry_grove.client_biome.json",
+      "sha256": "11e1a519b3762d7e8ec78a334e2fef3e8579c16ac929be3dfeddf9b32e5900d3"
+    },
+    {
+      "path": "bedrock-biomes/cold_beach.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cold_beach.client_biome.json",
+      "sha256": "9fbc281edef931f7289da2907e47f80163eddcb6577aae98aa56e9965246156b"
+    },
+    {
+      "path": "bedrock-biomes/cold_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cold_ocean.client_biome.json",
+      "sha256": "25b9b0d53fa750876f4f5502e24f73344f9816bbf67bb9ea4bd7720d726da66b"
+    },
+    {
+      "path": "bedrock-biomes/cold_taiga.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cold_taiga.client_biome.json",
+      "sha256": "e8c62871dcc7ae8708be6b55b7e7f298601b4879c5f11232935abdc3db1cf0ca"
+    },
+    {
+      "path": "bedrock-biomes/cold_taiga_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cold_taiga_hills.client_biome.json",
+      "sha256": "5d472dc89c89d0e0e71c339fb8267414bf701b3f6e450c69531a13ca5498bcbd"
+    },
+    {
+      "path": "bedrock-biomes/cold_taiga_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/cold_taiga_mutated.client_biome.json",
+      "sha256": "0a6c5cdb4f7635dc0979bd3d41c4975c29679ef06be3041e77a48a8bbae71cef"
+    },
+    {
+      "path": "bedrock-biomes/crimson_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/crimson_forest.client_biome.json",
+      "sha256": "7efb2c63de5923e15e93042da92f9ef2086c686a15dd2496f2f0619e184fae91"
+    },
+    {
+      "path": "bedrock-biomes/dappled_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/dappled_forest.client_biome.json",
+      "sha256": "4e77748b94ecaa5fd3ad061836a8e1d72895880c8275732fa941fd2732b4d233"
+    },
+    {
+      "path": "bedrock-biomes/deep_cold_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_cold_ocean.client_biome.json",
+      "sha256": "512a847c96f699c43f328a9cda2a1490a1ff1a4434fc12c31019edc8b5bfada2"
+    },
+    {
+      "path": "bedrock-biomes/deep_dark.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_dark.client_biome.json",
+      "sha256": "773b20751f3ebfa9c7f282479787dc13198948ad1d0b424847f604151858f61c"
+    },
+    {
+      "path": "bedrock-biomes/deep_frozen_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_frozen_ocean.client_biome.json",
+      "sha256": "1cbc522b2b37e0fb2fc8ad4024fa8e78787554b8d0e9a587b93885f7277f96ef"
+    },
+    {
+      "path": "bedrock-biomes/deep_lukewarm_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_lukewarm_ocean.client_biome.json",
+      "sha256": "dde758978bb3570fcb22f494f72f186e601b6e5bbbcd6c917b9070d88376ded4"
+    },
+    {
+      "path": "bedrock-biomes/deep_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_ocean.client_biome.json",
+      "sha256": "1ffe4425a110e21887fac17443227465daceca8a0fbf75157c5ec4c2cb24c53d"
+    },
+    {
+      "path": "bedrock-biomes/deep_warm_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/deep_warm_ocean.client_biome.json",
+      "sha256": "225215ae48b7bf1b8fd7cbd89c09cb62084c20db1e923f47e45242e4d042ec2f"
+    },
+    {
+      "path": "bedrock-biomes/desert.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/desert.client_biome.json",
+      "sha256": "581482ea9e8f2504eec9f5fc69c2375b196a56c55ea06fa2176db9b80947b780"
+    },
+    {
+      "path": "bedrock-biomes/desert_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/desert_hills.client_biome.json",
+      "sha256": "25974466db0513c83e2dfae33b095c6ba798d1742ad2621591ec894b27407876"
+    },
+    {
+      "path": "bedrock-biomes/desert_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/desert_mutated.client_biome.json",
+      "sha256": "57158574d516229407125c4f997ed9a2d29ddcf7b495ffb44c9fe53df83a8160"
+    },
+    {
+      "path": "bedrock-biomes/dripstone_caves.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/dripstone_caves.client_biome.json",
+      "sha256": "ce8ed2a1210c4502f0147907b20c6dcb373514f9cfb43f8cc2021471d6a7119b"
+    },
+    {
+      "path": "bedrock-biomes/extreme_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/extreme_hills.client_biome.json",
+      "sha256": "d66428d4c27cf7dc15c7578607387a9a4ee7f2605361636a3416aa852facdba1"
+    },
+    {
+      "path": "bedrock-biomes/extreme_hills_edge.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/extreme_hills_edge.client_biome.json",
+      "sha256": "f1795181ad62a703fca77e5e332fc95b0bc585fbcdf169b203783568194eb039"
+    },
+    {
+      "path": "bedrock-biomes/extreme_hills_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/extreme_hills_mutated.client_biome.json",
+      "sha256": "4e3d822549bb5990f0c3c71b235e3bc502701d30a42742fd663b249cb823e6eb"
+    },
+    {
+      "path": "bedrock-biomes/extreme_hills_plus_trees.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/extreme_hills_plus_trees.client_biome.json",
+      "sha256": "9406a46f448fe4c0173f0d72079d0ba07753c29a671de52aea9662280ecb00d9"
+    },
+    {
+      "path": "bedrock-biomes/extreme_hills_plus_trees_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/extreme_hills_plus_trees_mutated.client_biome.json",
+      "sha256": "c954bd1bbbdd2c22bf631ba75d71ff2d51fcc003392c3c6477d994eff35838a5"
+    },
+    {
+      "path": "bedrock-biomes/flower_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/flower_forest.client_biome.json",
+      "sha256": "17d7e9ff145f30cd3f8598f7d3db3fa54654168e3beb36fe58f05bc486648cc8"
+    },
+    {
+      "path": "bedrock-biomes/forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/forest.client_biome.json",
+      "sha256": "a052567471637e6481b26c55c80be431b5d0d709d162524ed5af7d4bfa9f0df9"
+    },
+    {
+      "path": "bedrock-biomes/forest_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/forest_hills.client_biome.json",
+      "sha256": "4e59067bc3e2713d504a524e4e6e474d4643b97dcb6766a6d63020e22626bfc3"
+    },
+    {
+      "path": "bedrock-biomes/frozen_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/frozen_ocean.client_biome.json",
+      "sha256": "8bbb6f3422e8bc5034c709ebbd7962d1a585d28f9b5b9c1a57321a9a120d0eee"
+    },
+    {
+      "path": "bedrock-biomes/frozen_peaks.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/frozen_peaks.client_biome.json",
+      "sha256": "8e94405c6a81cf73a6dc9cb93cec8cf4bfd4152c2a7d2374146d23346d45bbe3"
+    },
+    {
+      "path": "bedrock-biomes/frozen_river.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/frozen_river.client_biome.json",
+      "sha256": "513e42c9c18aa6d8555a6b703b17cb18473923c8a85b1df8d0ad5de2d8e79f1f"
+    },
+    {
+      "path": "bedrock-biomes/grove.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/grove.client_biome.json",
+      "sha256": "ac6f85507f6bd1d13c8521635f81b547206156676ca84895ae9d728b3e53aae0"
+    },
+    {
+      "path": "bedrock-biomes/hell.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/hell.client_biome.json",
+      "sha256": "61278ecb5f2227456b7f292b4517a9f8e324e606ec18a09a72f1e015f5c21d65"
+    },
+    {
+      "path": "bedrock-biomes/ice_mountains.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/ice_mountains.client_biome.json",
+      "sha256": "8858822aae057314ebd32b7e3eed1d2e895c0e9c1468ee95bcd551f5f874f68a"
+    },
+    {
+      "path": "bedrock-biomes/ice_plains.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/ice_plains.client_biome.json",
+      "sha256": "40094f320a615bdf8c08113e82824a8f611031e3ce7bc5a98e25e9119e760195"
+    },
+    {
+      "path": "bedrock-biomes/ice_plains_spikes.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/ice_plains_spikes.client_biome.json",
+      "sha256": "19253e460b6eabec6d4e73d7ebf48b5d6144c021be71775776c8214dcd0c4358"
+    },
+    {
+      "path": "bedrock-biomes/jagged_peaks.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jagged_peaks.client_biome.json",
+      "sha256": "bdfe10c70d9bb4a1ed54424603d38b1958ee6468518a1fcf8bfea7f4b39ac6a7"
+    },
+    {
+      "path": "bedrock-biomes/jungle.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jungle.client_biome.json",
+      "sha256": "3d207d5c04815564f9dedebb41d9619af868c77068b691aaf42f0a796695dd83"
+    },
+    {
+      "path": "bedrock-biomes/jungle_edge.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jungle_edge.client_biome.json",
+      "sha256": "831df5f82776c21dc532abf73516c8fd3e6fa534331845ab2ccffd711ff5b1e2"
+    },
+    {
+      "path": "bedrock-biomes/jungle_edge_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jungle_edge_mutated.client_biome.json",
+      "sha256": "450ab3e9fdfea7571e69a925f8f35bb7f151ccc29938fd4048e8ede3dc781e19"
+    },
+    {
+      "path": "bedrock-biomes/jungle_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jungle_hills.client_biome.json",
+      "sha256": "3303263e9daa0f8dacafbb7392001b397214dd457ea16b5acecfb250f92c313d"
+    },
+    {
+      "path": "bedrock-biomes/jungle_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/jungle_mutated.client_biome.json",
+      "sha256": "44c22e19e8eada8d953f6818e5f23813791f9740a47e0718f71339f428712078"
+    },
+    {
+      "path": "bedrock-biomes/legacy_frozen_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/legacy_frozen_ocean.client_biome.json",
+      "sha256": "497518430278bc442d9980b9f869696288d14d14cac42ff22144aa88779067be"
+    },
+    {
+      "path": "bedrock-biomes/lukewarm_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/lukewarm_ocean.client_biome.json",
+      "sha256": "c7ff21a27f1eed47ce6feae5a5781b503dd383bd016dfbb390de69c640b7b6a6"
+    },
+    {
+      "path": "bedrock-biomes/lush_caves.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/lush_caves.client_biome.json",
+      "sha256": "4743bd5e9778c721731e81a172f8e4da3e90827926f68de02a226bfe32d220ab"
+    },
+    {
+      "path": "bedrock-biomes/mangrove_swamp.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mangrove_swamp.client_biome.json",
+      "sha256": "e1ad8abc88565b66584ba81821d028d3145362c6932374c14d8b61465863f7f5"
+    },
+    {
+      "path": "bedrock-biomes/meadow.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/meadow.client_biome.json",
+      "sha256": "fc95539b32e35697128ca7420034ec339fbc203b48ffdf2510b61eabcbd668d3"
+    },
+    {
+      "path": "bedrock-biomes/mega_taiga.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mega_taiga.client_biome.json",
+      "sha256": "0eca74e1ec52c5efefc86424b656982abad744e9a1fc61556646e9fe1270cd5d"
+    },
+    {
+      "path": "bedrock-biomes/mega_taiga_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mega_taiga_hills.client_biome.json",
+      "sha256": "d6b0484082cd6f8f609178f4c7136d79c32d306a5290e46138dde8e5b9387f42"
+    },
+    {
+      "path": "bedrock-biomes/mesa.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa.client_biome.json",
+      "sha256": "fc87c0b6fc9cd0bdb604c0a18a1300b6a77af78a1442de484989cd0990419b14"
+    },
+    {
+      "path": "bedrock-biomes/mesa_bryce.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa_bryce.client_biome.json",
+      "sha256": "ee5bd01a9a279343fd140d8889101d6cd157b58d5a8f1a7d317cf2a7fb72644d"
+    },
+    {
+      "path": "bedrock-biomes/mesa_plateau.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa_plateau.client_biome.json",
+      "sha256": "7b0de7892afdc5b5c0b52ece85ee513ca85ba147f15952d0e3ffaf6c4c9577ef"
+    },
+    {
+      "path": "bedrock-biomes/mesa_plateau_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa_plateau_mutated.client_biome.json",
+      "sha256": "fd2ad71e5e57a9a3c0312e074e8efce79f59cda4176f863df4e26c542b4b63cb"
+    },
+    {
+      "path": "bedrock-biomes/mesa_plateau_stone.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa_plateau_stone.client_biome.json",
+      "sha256": "6be01e29ac8881bc8175016c45e4fccaad88f20f783e48f9716f459c083f8963"
+    },
+    {
+      "path": "bedrock-biomes/mesa_plateau_stone_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mesa_plateau_stone_mutated.client_biome.json",
+      "sha256": "b06b572a63318a71cb31588174fc1e30b13f5b31302051e58c0b9f2b91e06164"
+    },
+    {
+      "path": "bedrock-biomes/mushroom_island.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mushroom_island.client_biome.json",
+      "sha256": "fb290a99550e70c32618321d8cda9356238c87877e06a914413edb8e594a57a7"
+    },
+    {
+      "path": "bedrock-biomes/mushroom_island_shore.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/mushroom_island_shore.client_biome.json",
+      "sha256": "292d3b29df1265ebba786f10561d94971be6a0222f0422d1124a2bf88dac7c3e"
+    },
+    {
+      "path": "bedrock-biomes/ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/ocean.client_biome.json",
+      "sha256": "dcd470d0837243402ff0b65bc27c2902e092c012c6648adb2294f644c37e224d"
+    },
+    {
+      "path": "bedrock-biomes/pale_garden.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/pale_garden.client_biome.json",
+      "sha256": "1a05cfa3ea0fae31990f101209f4787c2f7e33f84f10ba7dcd2f25c2a1a33cce"
+    },
+    {
+      "path": "bedrock-biomes/plains.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/plains.client_biome.json",
+      "sha256": "7f9de5eaa76a215985daada4c92537890e223ab4e82f5ab7bd3f3b37319e251c"
+    },
+    {
+      "path": "bedrock-biomes/redwood_taiga_hills_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/redwood_taiga_hills_mutated.client_biome.json",
+      "sha256": "47d8be4e3e0897144c0b44ad86be859d503352a1d14c1783d8007bfc62376d71"
+    },
+    {
+      "path": "bedrock-biomes/redwood_taiga_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/redwood_taiga_mutated.client_biome.json",
+      "sha256": "085f289f36aa786798b769ed92ece61f9d100c6999644c92a6c81a12bf7623b0"
+    },
+    {
+      "path": "bedrock-biomes/river.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/river.client_biome.json",
+      "sha256": "18aa43eb45ce17684588ee42136f4a881599b6a4973f989485a8df2ba77e4b19"
+    },
+    {
+      "path": "bedrock-biomes/roofed_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/roofed_forest.client_biome.json",
+      "sha256": "538b387ad359408ea82ef4bfb914bf8058f1e07b9e4d826d9906f5cc8b26f6d3"
+    },
+    {
+      "path": "bedrock-biomes/roofed_forest_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/roofed_forest_mutated.client_biome.json",
+      "sha256": "877f7c99f2fcde9461a1cdc7c2050552e48027b25514aa8be4f63fe9cdf7f939"
+    },
+    {
+      "path": "bedrock-biomes/savanna.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/savanna.client_biome.json",
+      "sha256": "d4ec7bac5006f51cf12861822f6c91b79eac32f3aa5c0d3224aa8ee1b67d4001"
+    },
+    {
+      "path": "bedrock-biomes/savanna_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/savanna_mutated.client_biome.json",
+      "sha256": "8cdb0dbee6f5ca1ea33f5af5bcb4c3220dae27b966bbaeddf8c93734bc91823f"
+    },
+    {
+      "path": "bedrock-biomes/savanna_plateau.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/savanna_plateau.client_biome.json",
+      "sha256": "ba5cbd00c8b81f279be093058fd63340fcc30480117bcd5a9f3b9101c0a0d1a2"
+    },
+    {
+      "path": "bedrock-biomes/savanna_plateau_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/savanna_plateau_mutated.client_biome.json",
+      "sha256": "f2bda3653e43ead823a0f8b43569a8eeebc16333bb1b6bb05c669fa117490f3c"
+    },
+    {
+      "path": "bedrock-biomes/snowy_slopes.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/snowy_slopes.client_biome.json",
+      "sha256": "08d3a54b2962593b8861e0eca0c6b235f3f3bbccfbe95f169d0dd95aacdc89b3"
+    },
+    {
+      "path": "bedrock-biomes/soulsand_valley.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/soulsand_valley.client_biome.json",
+      "sha256": "0c42c75472e0085094eb0ce4710e0d206395dafeb1ffc1386ff092687fc2aebe"
+    },
+    {
+      "path": "bedrock-biomes/stone_beach.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/stone_beach.client_biome.json",
+      "sha256": "e9c15d03a3d5ae53d9c52506a9f78e1ec9da20070d319b417683c4f36077133e"
+    },
+    {
+      "path": "bedrock-biomes/stony_peaks.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/stony_peaks.client_biome.json",
+      "sha256": "5e07234914cbe7c6defeb1313c84220a26ec636412aecde582168b1f969fd2da"
+    },
+    {
+      "path": "bedrock-biomes/sulfur_caves.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/sulfur_caves.client_biome.json",
+      "sha256": "a9d81bdee22b7a581450ae797010f9c82901bf22ec2a019869c0ded06fcde481"
+    },
+    {
+      "path": "bedrock-biomes/sunflower_plains.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/sunflower_plains.client_biome.json",
+      "sha256": "d6968a2873caa11534eb6a941e7b4acb18717c2a56dc3ec4aeff452811cae70a"
+    },
+    {
+      "path": "bedrock-biomes/swampland.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/swampland.client_biome.json",
+      "sha256": "b1f68852aa9b5231a8444949b9c344b807157a4b17e86504193e584185d271da"
+    },
+    {
+      "path": "bedrock-biomes/swampland_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/swampland_mutated.client_biome.json",
+      "sha256": "5dc01ad62ad46b205154467175eefee58a89d9bbddd165c9f0bd239ea1f33917"
+    },
+    {
+      "path": "bedrock-biomes/taiga.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/taiga.client_biome.json",
+      "sha256": "bdc34854671df99f7134e1fc339fa6c822be737329196a4d6946d454f285bb5e"
+    },
+    {
+      "path": "bedrock-biomes/taiga_hills.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/taiga_hills.client_biome.json",
+      "sha256": "65ac13625a85ec4f3bf09ae1fecafc518babc68ab4a2a1a58267a480b8dbaa90"
+    },
+    {
+      "path": "bedrock-biomes/taiga_mutated.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/taiga_mutated.client_biome.json",
+      "sha256": "69d28adebe32cff127210f21f160f95a75b20fd98c573214cac385c50e459e81"
+    },
+    {
+      "path": "bedrock-biomes/the_end.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/the_end.client_biome.json",
+      "sha256": "8d214d1ba131614fcd77b7f39903612825f9150df4ccf4f79737f842f8c23232"
+    },
+    {
+      "path": "bedrock-biomes/warm_ocean.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/warm_ocean.client_biome.json",
+      "sha256": "88bfb148649fb60bd3e72979dab831b49a143673f1ae92ba92e8202f9a3e805b"
+    },
+    {
+      "path": "bedrock-biomes/warped_forest.client_biome.json",
+      "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/46ba6ea985fb5a92d79a9419198f10dda14c199d/resource_pack/biomes/warped_forest.client_biome.json",
+      "sha256": "dffa51ce5ef4d815ba8e746677ac8358e109168de9f63e23928c072e2259819d"
+    }
+  ]
+}

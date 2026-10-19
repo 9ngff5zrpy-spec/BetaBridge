@@ -1,0 +1,7 @@
+name: BetaBridge
+version: 0.3.8-alpha.1
+author: BetaBridge contributors
+main: cl.betabridge.BetaBridgePlugin
+min-version: 3.4.14
+depends:
+  - Geyser-ViaProxy

@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "version": "0.3.8-alpha.1",
+  "profile": "b1.6.6",
+  "dependencies": [
+    {
+      "name": "ViaProxy.jar",
+      "url": "https://github.com/ViaVersion/ViaProxy/releases/download/v3.4.14/ViaProxy-3.4.14.jar",
+      "sha256": "2894bbfb2f4342f8fde887af6c689313efd5b0e46a8006775eea0e21e2948ab5"
+    },
+    {
+      "name": "Geyser-ViaProxy.jar",
+      "url": "https://download.geysermc.org/v2/projects/geyser/versions/2.12.0/builds/1262/downloads/viaproxy",
+      "sha256": "48a45d91027809e51b59baa4ac0f04c4123c7123837bcec489151337e3461957"
+    }
+  ],
+  "minecraftServer": {
+    "sha256": "af36c9c708ec9b322378acb319b0da8a1d76ac2185c595a077d0c069835b8916",
+    "providedByUser": true
+  },
+  "minecraftClient": {
+    "sha256": "7764cb6cd9832d3b270d749a9ebf44e5ec8297faf5f14753146ab70cbd316b66",
+    "providedByUser": true
+  },
+  "pack": {
+    "path": "resourcepack/BetaBridge-b1.6.6.mcpack",
+    "version": [
+      0,
+      3,
+      7
+    ],
+    "sha256": "df7d0e2c75ddb3adc92e2fedfbe2e50136a8cf412a46240ff9a24e8cb1dc18b2"
+  },
+  "testedBedrock": {
+    "version": "26.52",
+    "protocol": 2193
+  },
+  "testedJavaRuntime": "JDK 21"
+}

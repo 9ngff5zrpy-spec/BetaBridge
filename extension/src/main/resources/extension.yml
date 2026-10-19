@@ -1,0 +1,6 @@
+id: betabridge
+name: BetaBridge
+main: cl.nostalgia.betabridge.BetaHudExtension
+api: 2.11.0
+version: 0.3.8-alpha.1
+authors: [BetaBridge contributors]

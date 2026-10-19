@@ -1,0 +1,14 @@
+BetaBridge — experimental, built with OpenAI Codex
+
+1. Stop your Java Beta 1.6.6 server. Install JDK 21 and Python 3.9+.
+2. Extract this package into the server folder. One enclosing ZIP folder is OK.
+3. Open Install-BetaBridge.command (Mac) or Install-BetaBridge.bat (Windows).
+   Linux / hosting terminal: python3 install.py
+4. Start using the generated Start-BetaBridge launcher in the server folder.
+
+Your original JAR/world stay intact. Active world: betabridge-runtime/beta/world.
+Host ports: main Bedrock port TCP+UDP 19132, extra UDP 19133 by default.
+Custom host ports: python3 install.py --bedrock-port 20000 --nethernet-port 20001
+Bedrock players only accept the automatic resource pack. No client mods.
+
+Read README.md and docs/HOSTING.md for hosting requirements and details.

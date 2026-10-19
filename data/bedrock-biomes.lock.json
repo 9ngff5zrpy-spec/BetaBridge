@@ -1,0 +1,451 @@
+{
+  "repository": "https://github.com/Mojang/bedrock-samples",
+  "treeSha": "46ba6ea985fb5a92d79a9419198f10dda14c199d",
+  "files": [
+    {
+      "path": "resource_pack/biomes/bamboo_jungle.client_biome.json",
+      "gitBlobSha1": "731213a19e897e32545abf7fa6ca8f439c839e65",
+      "sha256": "42d7733d6dcb4e6bbc4443b88bb8d8ec57178de5814c1a1bfbdac138fcd4cbe7"
+    },
+    {
+      "path": "resource_pack/biomes/bamboo_jungle_hills.client_biome.json",
+      "gitBlobSha1": "2b7192b2253dd8e69019f7c8280e5ef2735111bc",
+      "sha256": "4ee2eca0c09dbc40f3f43dc43e1e09ce5e4614ce876c8fffd8d94817514a6c7f"
+    },
+    {
+      "path": "resource_pack/biomes/basalt_deltas.client_biome.json",
+      "gitBlobSha1": "84c00c1db9589bb337234613fbc19b3a57c10f2e",
+      "sha256": "b3202d13cd967e27eee0f367d461e6be9fefb67067c800a7d6f14017033f9da7"
+    },
+    {
+      "path": "resource_pack/biomes/beach.client_biome.json",
+      "gitBlobSha1": "83359d75d5fa929a46f3578c56025c3fbf120983",
+      "sha256": "ef82223b5de71b9eae0ab19ba90f5bdc20ee74b7409c8a10214559d25a91b9be"
+    },
+    {
+      "path": "resource_pack/biomes/birch_forest.client_biome.json",
+      "gitBlobSha1": "18ac218a62e47f62f1c2b42a9d650b10dea45c75",
+      "sha256": "245bef262a89ebccbc6eca0a0756d71f8e886cfbe51ab9f96dfe056deef41554"
+    },
+    {
+      "path": "resource_pack/biomes/birch_forest_hills.client_biome.json",
+      "gitBlobSha1": "ff8348853c766119da1c8f08888c92ddab1571be",
+      "sha256": "116d142c3c9cd524bb3e6f4aa955d902e98a340c4e407a6b7e23b8d1df7eb71f"
+    },
+    {
+      "path": "resource_pack/biomes/birch_forest_hills_mutated.client_biome.json",
+      "gitBlobSha1": "a9eaee094173974a70c224a59a14e70e52050a15",
+      "sha256": "4862db850908ed893546c50cfd5229828503b7125bfb1b00265ca531a06622ef"
+    },
+    {
+      "path": "resource_pack/biomes/birch_forest_mutated.client_biome.json",
+      "gitBlobSha1": "c55e6b4541513ab90140f685b419d072aba39fb2",
+      "sha256": "5f79fb35e419930a97302793900c43f29e0223b8b3df0d17cf90eb1cbd682389"
+    },
+    {
+      "path": "resource_pack/biomes/cherry_grove.client_biome.json",
+      "gitBlobSha1": "33a9a01fa61b030d2923bb6dae807f34d586810b",
+      "sha256": "11e1a519b3762d7e8ec78a334e2fef3e8579c16ac929be3dfeddf9b32e5900d3"
+    },
+    {
+      "path": "resource_pack/biomes/cold_beach.client_biome.json",
+      "gitBlobSha1": "6ad17d05daffb2d8a0de3ada92ab72b4bdbf5b2e",
+      "sha256": "9fbc281edef931f7289da2907e47f80163eddcb6577aae98aa56e9965246156b"
+    },
+    {
+      "path": "resource_pack/biomes/cold_ocean.client_biome.json",
+      "gitBlobSha1": "fed92eeb7805eb918b0cd51045abadbd453d0dc4",
+      "sha256": "25b9b0d53fa750876f4f5502e24f73344f9816bbf67bb9ea4bd7720d726da66b"
+    },
+    {
+      "path": "resource_pack/biomes/cold_taiga.client_biome.json",
+      "gitBlobSha1": "a5564aece1ca6c4535b823425a618ce51617d6fb",
+      "sha256": "e8c62871dcc7ae8708be6b55b7e7f298601b4879c5f11232935abdc3db1cf0ca"
+    },
+    {
+      "path": "resource_pack/biomes/cold_taiga_hills.client_biome.json",
+      "gitBlobSha1": "235c0907255ab62e9e6a79c5f1b274deeb3e7146",
+      "sha256": "5d472dc89c89d0e0e71c339fb8267414bf701b3f6e450c69531a13ca5498bcbd"
+    },
+    {
+      "path": "resource_pack/biomes/cold_taiga_mutated.client_biome.json",
+      "gitBlobSha1": "cce33302abce980184ecc6c039274f5603d7e402",
+      "sha256": "0a6c5cdb4f7635dc0979bd3d41c4975c29679ef06be3041e77a48a8bbae71cef"
+    },
+    {
+      "path": "resource_pack/biomes/crimson_forest.client_biome.json",
+      "gitBlobSha1": "65e09f95cd768cb2bfaea49da1e7df9334c76ffc",
+      "sha256": "7efb2c63de5923e15e93042da92f9ef2086c686a15dd2496f2f0619e184fae91"
+    },
+    {
+      "path": "resource_pack/biomes/dappled_forest.client_biome.json",
+      "gitBlobSha1": "fad7b5262be9544516acaadd37db0c7bae5d3e81",
+      "sha256": "4e77748b94ecaa5fd3ad061836a8e1d72895880c8275732fa941fd2732b4d233"
+    },
+    {
+      "path": "resource_pack/biomes/deep_cold_ocean.client_biome.json",
+      "gitBlobSha1": "a0461584d69ab0dadb31d03e7f8a79faea7c6b10",
+      "sha256": "512a847c96f699c43f328a9cda2a1490a1ff1a4434fc12c31019edc8b5bfada2"
+    },
+    {
+      "path": "resource_pack/biomes/deep_dark.client_biome.json",
+      "gitBlobSha1": "98191d5294bb48311f71438061cea06e853f62c0",
+      "sha256": "773b20751f3ebfa9c7f282479787dc13198948ad1d0b424847f604151858f61c"
+    },
+    {
+      "path": "resource_pack/biomes/deep_frozen_ocean.client_biome.json",
+      "gitBlobSha1": "79e434abc7139026d42f3f95d1e5c5acf6429998",
+      "sha256": "1cbc522b2b37e0fb2fc8ad4024fa8e78787554b8d0e9a587b93885f7277f96ef"
+    },
+    {
+      "path": "resource_pack/biomes/deep_lukewarm_ocean.client_biome.json",
+      "gitBlobSha1": "4483f996327c36f562b5b8f66caae8b01dd97c99",
+      "sha256": "dde758978bb3570fcb22f494f72f186e601b6e5bbbcd6c917b9070d88376ded4"
+    },
+    {
+      "path": "resource_pack/biomes/deep_ocean.client_biome.json",
+      "gitBlobSha1": "3b5219001c3ba9b2cf3a521d8b9db70aa7b10ce8",
+      "sha256": "1ffe4425a110e21887fac17443227465daceca8a0fbf75157c5ec4c2cb24c53d"
+    },
+    {
+      "path": "resource_pack/biomes/deep_warm_ocean.client_biome.json",
+      "gitBlobSha1": "dc0ec205561033e08d2ca97cbe676e816119c8c9",
+      "sha256": "225215ae48b7bf1b8fd7cbd89c09cb62084c20db1e923f47e45242e4d042ec2f"
+    },
+    {
+      "path": "resource_pack/biomes/desert.client_biome.json",
+      "gitBlobSha1": "3aa323bffd063625bbdbc30f39f18021fe2e376d",
+      "sha256": "581482ea9e8f2504eec9f5fc69c2375b196a56c55ea06fa2176db9b80947b780"
+    },
+    {
+      "path": "resource_pack/biomes/desert_hills.client_biome.json",
+      "gitBlobSha1": "ab213ab5dc37e502ea76ec0cd07169a17b6bab91",
+      "sha256": "25974466db0513c83e2dfae33b095c6ba798d1742ad2621591ec894b27407876"
+    },
+    {
+      "path": "resource_pack/biomes/desert_mutated.client_biome.json",
+      "gitBlobSha1": "459b6e6222a5291b56b406a1ac515758827dc032",
+      "sha256": "57158574d516229407125c4f997ed9a2d29ddcf7b495ffb44c9fe53df83a8160"
+    },
+    {
+      "path": "resource_pack/biomes/dripstone_caves.client_biome.json",
+      "gitBlobSha1": "8be645e8ba8be1953d84d8d5a2073945caf42cb8",
+      "sha256": "ce8ed2a1210c4502f0147907b20c6dcb373514f9cfb43f8cc2021471d6a7119b"
+    },
+    {
+      "path": "resource_pack/biomes/extreme_hills.client_biome.json",
+      "gitBlobSha1": "13044847782b174942f81fb138d342601bb00226",
+      "sha256": "d66428d4c27cf7dc15c7578607387a9a4ee7f2605361636a3416aa852facdba1"
+    },
+    {
+      "path": "resource_pack/biomes/extreme_hills_edge.client_biome.json",
+      "gitBlobSha1": "3d6d580ef931c10d96b04ca50d7c60f451d8923b",
+      "sha256": "f1795181ad62a703fca77e5e332fc95b0bc585fbcdf169b203783568194eb039"
+    },
+    {
+      "path": "resource_pack/biomes/extreme_hills_mutated.client_biome.json",
+      "gitBlobSha1": "d36d742c45a59aea0ed8c64e7c55ede39baf622b",
+      "sha256": "4e3d822549bb5990f0c3c71b235e3bc502701d30a42742fd663b249cb823e6eb"
+    },
+    {
+      "path": "resource_pack/biomes/extreme_hills_plus_trees.client_biome.json",
+      "gitBlobSha1": "104b24c1b6bbf220bcd10ec5359d785402baa05e",
+      "sha256": "9406a46f448fe4c0173f0d72079d0ba07753c29a671de52aea9662280ecb00d9"
+    },
+    {
+      "path": "resource_pack/biomes/extreme_hills_plus_trees_mutated.client_biome.json",
+      "gitBlobSha1": "0912e74ae6489e196a4c68019a04d5eabb3ceda9",
+      "sha256": "c954bd1bbbdd2c22bf631ba75d71ff2d51fcc003392c3c6477d994eff35838a5"
+    },
+    {
+      "path": "resource_pack/biomes/flower_forest.client_biome.json",
+      "gitBlobSha1": "baae7fe06fc8adc77af3ca69dff7d6d2f200abc3",
+      "sha256": "17d7e9ff145f30cd3f8598f7d3db3fa54654168e3beb36fe58f05bc486648cc8"
+    },
+    {
+      "path": "resource_pack/biomes/forest.client_biome.json",
+      "gitBlobSha1": "7c47ba856d368cc7980bebcc22fa9c34dffc1ed5",
+      "sha256": "a052567471637e6481b26c55c80be431b5d0d709d162524ed5af7d4bfa9f0df9"
+    },
+    {
+      "path": "resource_pack/biomes/forest_hills.client_biome.json",
+      "gitBlobSha1": "ec8c0b67ba51fdbd378117323cec66ab04b7ffda",
+      "sha256": "4e59067bc3e2713d504a524e4e6e474d4643b97dcb6766a6d63020e22626bfc3"
+    },
+    {
+      "path": "resource_pack/biomes/frozen_ocean.client_biome.json",
+      "gitBlobSha1": "b282adef26cdfc80e7068d18d8eb8c3e97bac718",
+      "sha256": "8bbb6f3422e8bc5034c709ebbd7962d1a585d28f9b5b9c1a57321a9a120d0eee"
+    },
+    {
+      "path": "resource_pack/biomes/frozen_peaks.client_biome.json",
+      "gitBlobSha1": "eb938efd68c411cc59516eb9230d5e81d79d4f82",
+      "sha256": "8e94405c6a81cf73a6dc9cb93cec8cf4bfd4152c2a7d2374146d23346d45bbe3"
+    },
+    {
+      "path": "resource_pack/biomes/frozen_river.client_biome.json",
+      "gitBlobSha1": "bfff3087cb4417af1e20f0fc4917d3a42db82640",
+      "sha256": "513e42c9c18aa6d8555a6b703b17cb18473923c8a85b1df8d0ad5de2d8e79f1f"
+    },
+    {
+      "path": "resource_pack/biomes/grove.client_biome.json",
+      "gitBlobSha1": "7c26731b8a4397b2121e948d8ffc3c10204a50d3",
+      "sha256": "ac6f85507f6bd1d13c8521635f81b547206156676ca84895ae9d728b3e53aae0"
+    },
+    {
+      "path": "resource_pack/biomes/hell.client_biome.json",
+      "gitBlobSha1": "6db50e49d3fd5d668ba771663a665857aead95a4",
+      "sha256": "61278ecb5f2227456b7f292b4517a9f8e324e606ec18a09a72f1e015f5c21d65"
+    },
+    {
+      "path": "resource_pack/biomes/ice_mountains.client_biome.json",
+      "gitBlobSha1": "6ea9f219fcda8d487dbe641294af3d079f04f4cd",
+      "sha256": "8858822aae057314ebd32b7e3eed1d2e895c0e9c1468ee95bcd551f5f874f68a"
+    },
+    {
+      "path": "resource_pack/biomes/ice_plains.client_biome.json",
+      "gitBlobSha1": "b9c68401c7d047c02d3873f865c1ea3e985732aa",
+      "sha256": "40094f320a615bdf8c08113e82824a8f611031e3ce7bc5a98e25e9119e760195"
+    },
+    {
+      "path": "resource_pack/biomes/ice_plains_spikes.client_biome.json",
+      "gitBlobSha1": "00c2ffae05b4d4c91d8c869f8891fd765c212178",
+      "sha256": "19253e460b6eabec6d4e73d7ebf48b5d6144c021be71775776c8214dcd0c4358"
+    },
+    {
+      "path": "resource_pack/biomes/jagged_peaks.client_biome.json",
+      "gitBlobSha1": "1caa976759bfb7b1649406fdd029c28af52e0041",
+      "sha256": "bdfe10c70d9bb4a1ed54424603d38b1958ee6468518a1fcf8bfea7f4b39ac6a7"
+    },
+    {
+      "path": "resource_pack/biomes/jungle.client_biome.json",
+      "gitBlobSha1": "23e82e9b55df8bad5efc6c2fcfce3cba9ba4e4db",
+      "sha256": "3d207d5c04815564f9dedebb41d9619af868c77068b691aaf42f0a796695dd83"
+    },
+    {
+      "path": "resource_pack/biomes/jungle_edge.client_biome.json",
+      "gitBlobSha1": "c13d98070cbf4df58c523553825f6611f79ce90b",
+      "sha256": "831df5f82776c21dc532abf73516c8fd3e6fa534331845ab2ccffd711ff5b1e2"
+    },
+    {
+      "path": "resource_pack/biomes/jungle_edge_mutated.client_biome.json",
+      "gitBlobSha1": "5a0ab0c40e7c4674941c01c6ae0f0e9f3d54807d",
+      "sha256": "450ab3e9fdfea7571e69a925f8f35bb7f151ccc29938fd4048e8ede3dc781e19"
+    },
+    {
+      "path": "resource_pack/biomes/jungle_hills.client_biome.json",
+      "gitBlobSha1": "1d414ec9e9f299c9820620c25c0bf42e10921624",
+      "sha256": "3303263e9daa0f8dacafbb7392001b397214dd457ea16b5acecfb250f92c313d"
+    },
+    {
+      "path": "resource_pack/biomes/jungle_mutated.client_biome.json",
+      "gitBlobSha1": "a5d43a189afcfa8c41c9bb84b0201e2eeb34f0c1",
+      "sha256": "44c22e19e8eada8d953f6818e5f23813791f9740a47e0718f71339f428712078"
+    },
+    {
+      "path": "resource_pack/biomes/legacy_frozen_ocean.client_biome.json",
+      "gitBlobSha1": "2d01fd96d603c7d4f61d299ffb63979d9cb0415c",
+      "sha256": "497518430278bc442d9980b9f869696288d14d14cac42ff22144aa88779067be"
+    },
+    {
+      "path": "resource_pack/biomes/lukewarm_ocean.client_biome.json",
+      "gitBlobSha1": "346289cd73ea387ca2301a67e42f59a35d6ef4d7",
+      "sha256": "c7ff21a27f1eed47ce6feae5a5781b503dd383bd016dfbb390de69c640b7b6a6"
+    },
+    {
+      "path": "resource_pack/biomes/lush_caves.client_biome.json",
+      "gitBlobSha1": "fd664c08b1ec20f81a9229942fd2d7a16bccdd2e",
+      "sha256": "4743bd5e9778c721731e81a172f8e4da3e90827926f68de02a226bfe32d220ab"
+    },
+    {
+      "path": "resource_pack/biomes/mangrove_swamp.client_biome.json",
+      "gitBlobSha1": "3aadb730ba161db991556a5d4b807dbc0f18f4fa",
+      "sha256": "e1ad8abc88565b66584ba81821d028d3145362c6932374c14d8b61465863f7f5"
+    },
+    {
+      "path": "resource_pack/biomes/meadow.client_biome.json",
+      "gitBlobSha1": "6f7b72e0ac6598efa93cd5885378b9270e154f66",
+      "sha256": "fc95539b32e35697128ca7420034ec339fbc203b48ffdf2510b61eabcbd668d3"
+    },
+    {
+      "path": "resource_pack/biomes/mega_taiga.client_biome.json",
+      "gitBlobSha1": "9aa298ad1ac42a5f7ea07c6355609857c89ebb02",
+      "sha256": "0eca74e1ec52c5efefc86424b656982abad744e9a1fc61556646e9fe1270cd5d"
+    },
+    {
+      "path": "resource_pack/biomes/mega_taiga_hills.client_biome.json",
+      "gitBlobSha1": "c118d07434d40aedd20f70828768483eb60d02f1",
+      "sha256": "d6b0484082cd6f8f609178f4c7136d79c32d306a5290e46138dde8e5b9387f42"
+    },
+    {
+      "path": "resource_pack/biomes/mesa.client_biome.json",
+      "gitBlobSha1": "bd3f57cff04ac8c4245d29392e89c3bb1011a983",
+      "sha256": "fc87c0b6fc9cd0bdb604c0a18a1300b6a77af78a1442de484989cd0990419b14"
+    },
+    {
+      "path": "resource_pack/biomes/mesa_bryce.client_biome.json",
+      "gitBlobSha1": "711e26e714e733a3e9f8a520cc85279dc9d386e3",
+      "sha256": "ee5bd01a9a279343fd140d8889101d6cd157b58d5a8f1a7d317cf2a7fb72644d"
+    },
+    {
+      "path": "resource_pack/biomes/mesa_plateau.client_biome.json",
+      "gitBlobSha1": "de7638daa566ec5b45bc59f8f5edc4c3fb14f890",
+      "sha256": "7b0de7892afdc5b5c0b52ece85ee513ca85ba147f15952d0e3ffaf6c4c9577ef"
+    },
+    {
+      "path": "resource_pack/biomes/mesa_plateau_mutated.client_biome.json",
+      "gitBlobSha1": "6e45146f5b85c7407122d27aef1ba94305e7476c",
+      "sha256": "fd2ad71e5e57a9a3c0312e074e8efce79f59cda4176f863df4e26c542b4b63cb"
+    },
+    {
+      "path": "resource_pack/biomes/mesa_plateau_stone.client_biome.json",
+      "gitBlobSha1": "b9b1a1acc6b5899178e2ef6355aed075db810b81",
+      "sha256": "6be01e29ac8881bc8175016c45e4fccaad88f20f783e48f9716f459c083f8963"
+    },
+    {
+      "path": "resource_pack/biomes/mesa_plateau_stone_mutated.client_biome.json",
+      "gitBlobSha1": "340cafcd3eb94f8e5094fac455aabbf5dd81cbb8",
+      "sha256": "b06b572a63318a71cb31588174fc1e30b13f5b31302051e58c0b9f2b91e06164"
+    },
+    {
+      "path": "resource_pack/biomes/mushroom_island.client_biome.json",
+      "gitBlobSha1": "1d0df8e51276ce9c63c9503d2eb747a5245df606",
+      "sha256": "fb290a99550e70c32618321d8cda9356238c87877e06a914413edb8e594a57a7"
+    },
+    {
+      "path": "resource_pack/biomes/mushroom_island_shore.client_biome.json",
+      "gitBlobSha1": "accff94ba323b58acd83ab65b88c7dfad6f73b07",
+      "sha256": "292d3b29df1265ebba786f10561d94971be6a0222f0422d1124a2bf88dac7c3e"
+    },
+    {
+      "path": "resource_pack/biomes/ocean.client_biome.json",
+      "gitBlobSha1": "e952d4be1edbb671ea46ea7869abf81224895a34",
+      "sha256": "dcd470d0837243402ff0b65bc27c2902e092c012c6648adb2294f644c37e224d"
+    },
+    {
+      "path": "resource_pack/biomes/pale_garden.client_biome.json",
+      "gitBlobSha1": "386b2a7b7481444dd207bb400928ed2b77cf81cc",
+      "sha256": "1a05cfa3ea0fae31990f101209f4787c2f7e33f84f10ba7dcd2f25c2a1a33cce"
+    },
+    {
+      "path": "resource_pack/biomes/plains.client_biome.json",
+      "gitBlobSha1": "087c7c50cfff24c12ea6e2b6cec7a24d27ae97f5",
+      "sha256": "7f9de5eaa76a215985daada4c92537890e223ab4e82f5ab7bd3f3b37319e251c"
+    },
+    {
+      "path": "resource_pack/biomes/redwood_taiga_hills_mutated.client_biome.json",
+      "gitBlobSha1": "7625dc3d900cc266eb9dd535cfbcfcbb51872b55",
+      "sha256": "47d8be4e3e0897144c0b44ad86be859d503352a1d14c1783d8007bfc62376d71"
+    },
+    {
+      "path": "resource_pack/biomes/redwood_taiga_mutated.client_biome.json",
+      "gitBlobSha1": "fe422dbe29504e1ea15e64300fa29752e0585b7c",
+      "sha256": "085f289f36aa786798b769ed92ece61f9d100c6999644c92a6c81a12bf7623b0"
+    },
+    {
+      "path": "resource_pack/biomes/river.client_biome.json",
+      "gitBlobSha1": "3ecb5a5a0d56bc4aef4af936efb0833d443e27c3",
+      "sha256": "18aa43eb45ce17684588ee42136f4a881599b6a4973f989485a8df2ba77e4b19"
+    },
+    {
+      "path": "resource_pack/biomes/roofed_forest.client_biome.json",
+      "gitBlobSha1": "4248666f17bec56ff4f0e35466c485492bd2c606",
+      "sha256": "538b387ad359408ea82ef4bfb914bf8058f1e07b9e4d826d9906f5cc8b26f6d3"
+    },
+    {
+      "path": "resource_pack/biomes/roofed_forest_mutated.client_biome.json",
+      "gitBlobSha1": "b98a9abded9399c18ca6b67c102c694724ed4150",
+      "sha256": "877f7c99f2fcde9461a1cdc7c2050552e48027b25514aa8be4f63fe9cdf7f939"
+    },
+    {
+      "path": "resource_pack/biomes/savanna.client_biome.json",
+      "gitBlobSha1": "32c52569995d14cf05eb74e3564070d5b0a9ed3d",
+      "sha256": "d4ec7bac5006f51cf12861822f6c91b79eac32f3aa5c0d3224aa8ee1b67d4001"
+    },
+    {
+      "path": "resource_pack/biomes/savanna_mutated.client_biome.json",
+      "gitBlobSha1": "5fe0bf97e325872be04bb188c754deb8adf8d449",
+      "sha256": "8cdb0dbee6f5ca1ea33f5af5bcb4c3220dae27b966bbaeddf8c93734bc91823f"
+    },
+    {
+      "path": "resource_pack/biomes/savanna_plateau.client_biome.json",
+      "gitBlobSha1": "e09dae2d0617e69abb641d531732e4fdd2cd5572",
+      "sha256": "ba5cbd00c8b81f279be093058fd63340fcc30480117bcd5a9f3b9101c0a0d1a2"
+    },
+    {
+      "path": "resource_pack/biomes/savanna_plateau_mutated.client_biome.json",
+      "gitBlobSha1": "fee86d9eca20ec4b42c83ba65429cd3600fcb457",
+      "sha256": "f2bda3653e43ead823a0f8b43569a8eeebc16333bb1b6bb05c669fa117490f3c"
+    },
+    {
+      "path": "resource_pack/biomes/snowy_slopes.client_biome.json",
+      "gitBlobSha1": "161764183bfe011e4f10400e3d58a467a4fdb408",
+      "sha256": "08d3a54b2962593b8861e0eca0c6b235f3f3bbccfbe95f169d0dd95aacdc89b3"
+    },
+    {
+      "path": "resource_pack/biomes/soulsand_valley.client_biome.json",
+      "gitBlobSha1": "77162c94736d19802d26dca712949f676e4519d8",
+      "sha256": "0c42c75472e0085094eb0ce4710e0d206395dafeb1ffc1386ff092687fc2aebe"
+    },
+    {
+      "path": "resource_pack/biomes/stone_beach.client_biome.json",
+      "gitBlobSha1": "e02df9416c953093b3df451211bd94ce179f9581",
+      "sha256": "e9c15d03a3d5ae53d9c52506a9f78e1ec9da20070d319b417683c4f36077133e"
+    },
+    {
+      "path": "resource_pack/biomes/stony_peaks.client_biome.json",
+      "gitBlobSha1": "0af6d95e731bca9e6dc52c1a8165413a9de8ea0a",
+      "sha256": "5e07234914cbe7c6defeb1313c84220a26ec636412aecde582168b1f969fd2da"
+    },
+    {
+      "path": "resource_pack/biomes/sulfur_caves.client_biome.json",
+      "gitBlobSha1": "e573134ae8ed0b25f821feae80d0bda2ed875de8",
+      "sha256": "a9d81bdee22b7a581450ae797010f9c82901bf22ec2a019869c0ded06fcde481"
+    },
+    {
+      "path": "resource_pack/biomes/sunflower_plains.client_biome.json",
+      "gitBlobSha1": "cc880a9cfee8114f833e817e6a899b76214d0213",
+      "sha256": "d6968a2873caa11534eb6a941e7b4acb18717c2a56dc3ec4aeff452811cae70a"
+    },
+    {
+      "path": "resource_pack/biomes/swampland.client_biome.json",
+      "gitBlobSha1": "279605938a469d563c724e40ecc0dd82d1b4a0e0",
+      "sha256": "b1f68852aa9b5231a8444949b9c344b807157a4b17e86504193e584185d271da"
+    },
+    {
+      "path": "resource_pack/biomes/swampland_mutated.client_biome.json",
+      "gitBlobSha1": "017a46d05e19ac34b75a5a07b6b54956e7ef6da7",
+      "sha256": "5dc01ad62ad46b205154467175eefee58a89d9bbddd165c9f0bd239ea1f33917"
+    },
+    {
+      "path": "resource_pack/biomes/taiga.client_biome.json",
+      "gitBlobSha1": "b95351dc85226ceb349a703fbe9fc69056feee2e",
+      "sha256": "bdc34854671df99f7134e1fc339fa6c822be737329196a4d6946d454f285bb5e"
+    },
+    {
+      "path": "resource_pack/biomes/taiga_hills.client_biome.json",
+      "gitBlobSha1": "3e963559206dd1794be883059b27b019d3f72324",
+      "sha256": "65ac13625a85ec4f3bf09ae1fecafc518babc68ab4a2a1a58267a480b8dbaa90"
+    },
+    {
+      "path": "resource_pack/biomes/taiga_mutated.client_biome.json",
+      "gitBlobSha1": "f2edff7058fda67628fe8dbfdb20ee0e70b22af6",
+      "sha256": "69d28adebe32cff127210f21f160f95a75b20fd98c573214cac385c50e459e81"
+    },
+    {
+      "path": "resource_pack/biomes/the_end.client_biome.json",
+      "gitBlobSha1": "4baa8c99f23e907f3f579fd0c7456f8b44ec2cbe",
+      "sha256": "8d214d1ba131614fcd77b7f39903612825f9150df4ccf4f79737f842f8c23232"
+    },
+    {
+      "path": "resource_pack/biomes/warm_ocean.client_biome.json",
+      "gitBlobSha1": "0a56a9203b49beafb93701133fe6b11aa8d09fff",
+      "sha256": "88bfb148649fb60bd3e72979dab831b49a143673f1ae92ba92e8202f9a3e805b"
+    },
+    {
+      "path": "resource_pack/biomes/warped_forest.client_biome.json",
+      "gitBlobSha1": "21cee9162fa204807ab808765afe053362ffe217",
+      "sha256": "dffa51ce5ef4d815ba8e746677ac8358e109168de9f63e23928c072e2259819d"
+    }
+  ]
+}
